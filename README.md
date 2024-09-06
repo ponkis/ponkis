@@ -26,13 +26,3 @@
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ponkiss&show_icons=true&theme=radical" />
 </p>
-
----
-
-### 🌐 Connect with Me
-<p align="left">
-  <a href="https://twitter.com/itsponkis" target="blank">
-    <img src="https://img.shields.io/twitter/follow/ponkiss?logo=twitter&style=for-the-badge" alt="Twitter Follow @ponkiss" /> (Please don't)
-  </a>
-</p>
-
