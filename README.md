@@ -32,7 +32,7 @@
 ### 🌐 Connect with Me
 <p align="left">
   <a href="https://twitter.com/itsponkis" target="blank">
-    <img src="https://img.shields.io/twitter/follow/ponkiss?logo=twitter&style=for-the-badge" alt="Twitter Follow @ponkiss" />
+    <img src="https://img.shields.io/twitter/follow/ponkiss?logo=twitter&style=for-the-badge" alt="Twitter Follow @ponkiss" /> (Please don't)
   </a>
 </p>
 
