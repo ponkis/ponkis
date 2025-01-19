@@ -9,7 +9,7 @@
 ### 🚀 About Me
 - 🌱 Constantly learning new things and experimenting with code.
 - ⚡ Building projects that solve problems, or just for the fun of it.
-- 🍥 Check out my work in the **[Repositories](https://github.com/ponkiss?tab=repositories)** section!
+- 🍥 Check out my work in the **[Repositories](https://github.com/ponkis?tab=repositories)** section!
   
 ---
 
