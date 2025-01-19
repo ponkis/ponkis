@@ -1,6 +1,6 @@
 <h2 align="center">Hi there! 🌠</h2>
 
-<p><img align="right" src="https://github.com/ponkiss.png?size=210" alt="ponkiss" width="200"/></p>
+<p><img align="right" src="https://github.com/ponkis.png?size=210" alt="ponkiss" width="200"/></p>
 
 <p align="left">I'm <b>ponkiss</b> – a self-taught developer who codes for fun! Whether it's HTML, CSS, JavaScript, Python, or whatever else piques my curiosity, I'm always eager to learn and explore.</p> 
 
