@@ -1,21 +1,10 @@
-<h2 align="center">ponkis</h2>
-
-<p align="center">self-taught dev. codes for fun. nothing more.</p>
-
-<p align="center">
-  <a href="https://github.com/ponkis?tab=repositories">repositories</a> &nbsp;·&nbsp;
-  <a href="https://github.com/ponkis?tab=stars">stars</a>
-</p>
-
----
-
 ```
-building things that work, breaking things that don't.
+hi dear
 ```
 
 **currently into** — Node.js backends, Astro static sites, and whatever else seems interesting.
 
-**approach** — ship first, polish later. or never. depends on the vibe.
+**approach** — stuff you've never seen before.
 
 ---
 
@@ -51,7 +40,7 @@ building things that work, breaking things that don't.
 
 - this profile is under permanent construction
 - i have more unfinished projects than finished ones
-- tabs over spaces. not up for debate.
-- dark mode only
+- most of my work is private
+- i love you
 
 </details>
