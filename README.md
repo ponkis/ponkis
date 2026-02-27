@@ -2,13 +2,13 @@
 
 <p><img align="right" src="https://github.com/ponkis.png?size=210" alt="ponkiss" width="200"/></p>
 
-<p align="left">I'm <b>ponkis</b> – a self-taught developer who codes for fun! Whether it's HTML, CSS, JavaScript, Python, or whatever else piques my curiosity, I'm always eager to learn and explore.</p> 
+<p align="left">Self-taught developer who codes for fun. Nothing else.</p> 
 
 ---
 
 ### 🚀 About Me
 - 🌱 Constantly learning new things and experimenting with code.
-- ⚡ Building projects that solve problems, or just for the fun of it.
+- ⚡ Building projects that solve problems, or just 'cuz I'm bored.
 - 🍥 Check out my work in the **[Repositories](https://github.com/ponkis?tab=repositories)** section!
   
 ---
