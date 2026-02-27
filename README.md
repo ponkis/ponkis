@@ -28,8 +28,8 @@ hi dear
 ### stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ponkis&show_icons=true&theme=dark&hide_border=true&hide_title=true&count_private=true" height="130" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ponkis&layout=compact&theme=dark&hide_border=true" height="130" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ponkiss&show_icons=true&theme=dark&hide_border=true&hide_title=true&count_private=true" height="130" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ponkiss&layout=compact&theme=dark&hide_border=true" height="130" />
 </p>
 
 ---
