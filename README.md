@@ -1,4 +1,4 @@
-<h2 align="center">Hi there! 🌠</h2>
+<h2 align="center">sup</h2>
 
 <p><img align="right" src="https://github.com/ponkis.png?size=210" alt="ponkiss" width="200"/></p>
 
